@@ -9,7 +9,7 @@ from userbot.utils import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DARK COBRA"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DEATHRAY BOT"
 
 # Thanks to Sipak bro and Raganork.. 
 # animation Idea by @NOOB_GUY_OP (Sipakisking)
@@ -19,18 +19,19 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DARK COBRA"
 
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/6aa39732748ed7c319943.jpg"
-file2 = "https://telegra.ph/file/a6d72504bc09e71484a54.jpg"
-file3 = "https://telegra.ph/file/3cdbede1d5d85aa2d50fc.jpg"
-file4 = "https://telegra.ph/file/3dae01973943e8b28c931.jpg"
+file1 = "https://telegra.ph/file/8c103b3a39b71a129bae1.jpg"
+file2 = "https://telegra.ph/file/8c103b3a39b71a129bae1.jpg"
+file3 = "https://telegra.ph/file/8c103b3a39b71a129bae1.jpg"
+file4 = "https://telegra.ph/file/8c103b3a39b71a129bae1.jpg"
+
 """ =======================CONSTANTS====================== """
 pm_caption = "** 𝔻𝕖𝕒𝕥𝕙ℝ𝕒𝕪 𝕌𝕤𝕖𝕣𝔹𝕠𝕥 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n\n"
-pm_caption += "**Yes Master, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n"
+pm_caption += "**Yes Sir, I Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n"
 pm_caption += "✘ About My System ✘\n\n"
 pm_caption += "➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ 15.0.0\n"
 pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/deathray_support)\n"
-pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/DARK-COBRA)\n"
-pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [𝙳𝙰𝚁𝙺-𝙲𝙾𝙱𝚁𝙰](https://github.com/DARK-COBRA/DARKCOBRA)\n\n"
+pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 DEATHRAY](https://github.com/DEATHRAY-998)\n"
+pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [DeathRay team](https://github.com/DEATHRAY-998/DEATHRAY-998)\n\n"
 pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ {DEFAULTUSER}\n"
 
 @borg.on(admin_cmd(pattern=r"alive"))
