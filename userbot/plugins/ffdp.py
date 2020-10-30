@@ -30,13 +30,13 @@ async def ffdp():
 
     pack = COLLECTION_STRINGZ[rnd]
 
-    pc = requests.get("http://getwallpapers.com/collection/" + pack).text
+    pc = requests.get("https://wallpapercave.com/garena-free-fire-wallpapers/").text
 
     f = re.compile('/\w+/full.+.jpg')
 
     f = f.findall(pc)
 
-    fy = "http://getwallpapers.com"+random.choice(f)
+    fy = "https://wallpapercave.com/garena-free-fire-wallpapers"+random.choice(f)
 
     print(fy)
 
