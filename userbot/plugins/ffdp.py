@@ -22,7 +22,7 @@ COLLECTION_STRINGZ = [
 
 ]
 
-async def ffdp():
+async def animepp():
 
     os.system("rm -rf donot.jpg")
 
