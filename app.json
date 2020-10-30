@@ -1,7 +1,7 @@
 {
   "name": "𝔻𝕖𝕒𝕥𝕙ℝ𝕒𝕪 𝕌𝕤𝕖𝕣𝔹𝕠𝕥",
   "description": "The best and most awaited userbot made by @scoop38 and recreated by (@nikhilbariki). Made with ❤ For Support Join @DeathRayHacker_support ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "logo": "https://telegra.ph/file/8c103b3a39b71a129bae1.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/DEATHRAY-998/DEATHRAYBOT/",
   "website": "https://github.com/DEATHRAY-998/DEATHRAYBOT/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "success_url": "t.me/DEATHRAYGROUPS",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -107,7 +107,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "Get this value by running https://deathraybot.deathraybot.repl.run/ ",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
